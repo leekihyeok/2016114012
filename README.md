@@ -1,4 +1,4 @@
-## Vanilla Javascript Comfy House Parcel Setup
+## Vanilla Javascript vestimenta Parcel Setup
 
 Once you download the project and run
 
