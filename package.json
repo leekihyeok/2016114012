@@ -7,8 +7,8 @@
     "start": "parcel ./src/index.html",
     "build": "parcel ./src/index.html build -d public",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    
+    "deploy": "gh-pages -d dist"
   },
   "homepage": "https://leekihyeok.github.io/2016114012/",
   "keywords": [],
